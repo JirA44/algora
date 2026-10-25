@@ -7,6 +7,18 @@
   <h3 align="center">Algora</h4>
 
   <p align="center">
+## Présentation en français
+
+Algora est une plateforme destinée à mettre en relation des entreprises et des contributeurs de logiciels open source, notamment pour proposer des bounties et rémunérer du travail de développement.
+
+### À quoi ça sert, et pourquoi ?
+
+Elle peut aider un projet à publier des tâches financées et un développeur à découvrir des contributions rémunérées. La disponibilité des offres, paiements et conditions dépend de la plateforme et de ses règles actuelles.
+
+### Exemple
+
+Un mainteneur publie une tâche avec ses critères d’acceptation ; un développeur examine les conditions, réalise la contribution et soumet une pull request pour revue.
+
     Hire the top 1% open source engineers.
     <br/>
     <a href="https://algora.io"><strong>Learn more »</strong></a>
